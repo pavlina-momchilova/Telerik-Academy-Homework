@@ -1,0 +1,6 @@
+E:\TelerikAcademy\JavaScript\10.Regular Expressions\RegularExpressions\RegularExpressions\bin\RegularExpressions.dll.config
+E:\TelerikAcademy\JavaScript\10.Regular Expressions\RegularExpressions\RegularExpressions\bin\RegularExpressions.dll
+E:\TelerikAcademy\JavaScript\10.Regular Expressions\RegularExpressions\RegularExpressions\bin\RegularExpressions.pdb
+E:\TelerikAcademy\JavaScript\10.Regular Expressions\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\JavaScript\10.Regular Expressions\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.dll
+E:\TelerikAcademy\JavaScript\10.Regular Expressions\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb

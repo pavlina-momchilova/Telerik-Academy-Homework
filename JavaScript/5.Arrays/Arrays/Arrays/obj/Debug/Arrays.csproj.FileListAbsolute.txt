@@ -1,0 +1,6 @@
+E:\TelerikAcademy\JavaScript\5.Arrays\Arrays\Arrays\bin\Arrays.dll.config
+E:\TelerikAcademy\JavaScript\5.Arrays\Arrays\Arrays\bin\Arrays.dll
+E:\TelerikAcademy\JavaScript\5.Arrays\Arrays\Arrays\bin\Arrays.pdb
+E:\TelerikAcademy\JavaScript\5.Arrays\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\JavaScript\5.Arrays\Arrays\Arrays\obj\Debug\Arrays.dll
+E:\TelerikAcademy\JavaScript\5.Arrays\Arrays\Arrays\obj\Debug\Arrays.pdb

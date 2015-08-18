@@ -1,0 +1,6 @@
+E:\TelerikAcademy\JavaScript\Data types and variables\DataTypesAndVariables\DataTypesAndVariables\bin\DataTypesAndVariables.dll.config
+E:\TelerikAcademy\JavaScript\Data types and variables\DataTypesAndVariables\DataTypesAndVariables\bin\DataTypesAndVariables.dll
+E:\TelerikAcademy\JavaScript\Data types and variables\DataTypesAndVariables\DataTypesAndVariables\bin\DataTypesAndVariables.pdb
+E:\TelerikAcademy\JavaScript\Data types and variables\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\JavaScript\Data types and variables\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.dll
+E:\TelerikAcademy\JavaScript\Data types and variables\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb

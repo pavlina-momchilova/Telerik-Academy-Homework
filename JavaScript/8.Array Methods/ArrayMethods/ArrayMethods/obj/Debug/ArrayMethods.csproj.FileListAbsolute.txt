@@ -1,0 +1,6 @@
+E:\TelerikAcademy\JavaScript\8.Array Methods\ArrayMethods\ArrayMethods\bin\ArrayMethods.dll.config
+E:\TelerikAcademy\JavaScript\8.Array Methods\ArrayMethods\ArrayMethods\bin\ArrayMethods.dll
+E:\TelerikAcademy\JavaScript\8.Array Methods\ArrayMethods\ArrayMethods\bin\ArrayMethods.pdb
+E:\TelerikAcademy\JavaScript\8.Array Methods\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\JavaScript\8.Array Methods\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.dll
+E:\TelerikAcademy\JavaScript\8.Array Methods\ArrayMethods\ArrayMethods\obj\Debug\ArrayMethods.pdb

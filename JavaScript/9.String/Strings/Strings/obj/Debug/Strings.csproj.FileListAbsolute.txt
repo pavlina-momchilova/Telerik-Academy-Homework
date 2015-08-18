@@ -1,0 +1,6 @@
+E:\TelerikAcademy\JavaScript\9.String\Strings\Strings\bin\Strings.dll.config
+E:\TelerikAcademy\JavaScript\9.String\Strings\Strings\bin\Strings.dll
+E:\TelerikAcademy\JavaScript\9.String\Strings\Strings\bin\Strings.pdb
+E:\TelerikAcademy\JavaScript\9.String\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\JavaScript\9.String\Strings\Strings\obj\Debug\Strings.dll
+E:\TelerikAcademy\JavaScript\9.String\Strings\Strings\obj\Debug\Strings.pdb
