@@ -1,0 +1,6 @@
+E:\TelerikAcademy\High Quality Code\3.Code Documentation and Comments\CodeDocumentation\CodeDocumentation\bin\Debug\CodeDocumentation.exe.config
+E:\TelerikAcademy\High Quality Code\3.Code Documentation and Comments\CodeDocumentation\CodeDocumentation\obj\Debug\CodeDocumentation.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\High Quality Code\3.Code Documentation and Comments\CodeDocumentation\CodeDocumentation\bin\Debug\CodeDocumentation.exe
+E:\TelerikAcademy\High Quality Code\3.Code Documentation and Comments\CodeDocumentation\CodeDocumentation\bin\Debug\CodeDocumentation.pdb
+E:\TelerikAcademy\High Quality Code\3.Code Documentation and Comments\CodeDocumentation\CodeDocumentation\obj\Debug\CodeDocumentation.exe
+E:\TelerikAcademy\High Quality Code\3.Code Documentation and Comments\CodeDocumentation\CodeDocumentation\obj\Debug\CodeDocumentation.pdb

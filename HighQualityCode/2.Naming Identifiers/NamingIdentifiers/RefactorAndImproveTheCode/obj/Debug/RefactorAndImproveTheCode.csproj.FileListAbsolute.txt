@@ -1,0 +1,6 @@
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\RefactorAndImproveTheCode\bin\Debug\RefactorAndImproveTheCode.exe.config
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\RefactorAndImproveTheCode\bin\Debug\RefactorAndImproveTheCode.exe
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\RefactorAndImproveTheCode\bin\Debug\RefactorAndImproveTheCode.pdb
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\RefactorAndImproveTheCode\obj\Debug\RefactorAndImproveTheCode.exe
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\RefactorAndImproveTheCode\obj\Debug\RefactorAndImproveTheCode.pdb
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\RefactorAndImproveTheCode\obj\Debug\RefactorAndImproveTheCode.csprojResolveAssemblyReference.cache

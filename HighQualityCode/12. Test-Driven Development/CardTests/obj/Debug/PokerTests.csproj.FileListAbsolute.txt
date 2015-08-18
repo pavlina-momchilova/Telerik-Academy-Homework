@@ -1,0 +1,7 @@
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\12. Test-Driven Development\CardTests\bin\Debug\CardTests.dll
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\12. Test-Driven Development\CardTests\bin\Debug\CardTests.pdb
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\12. Test-Driven Development\CardTests\bin\Debug\Poker.exe
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\12. Test-Driven Development\CardTests\bin\Debug\Poker.pdb
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\12. Test-Driven Development\CardTests\obj\Debug\PokerTests.csprojResolveAssemblyReference.cache
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\12. Test-Driven Development\CardTests\obj\Debug\CardTests.dll
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\12. Test-Driven Development\CardTests\obj\Debug\CardTests.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\13. Refactoring\WalkInMatrixTests\obj\Debug\WalkInMatrixTests.csprojResolveAssemblyReference.cache
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\13. Refactoring\WalkInMatrixTests\bin\Debug\WalkInMatrixTests.dll
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\13. Refactoring\WalkInMatrixTests\bin\Debug\WalkInMatrixTests.pdb
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\13. Refactoring\WalkInMatrixTests\bin\Debug\GameFifteen.exe
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\13. Refactoring\WalkInMatrixTests\bin\Debug\GameFifteen.pdb
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\13. Refactoring\WalkInMatrixTests\obj\Debug\WalkInMatrixTests.dll
+C:\Users\Pavlina\Desktop\High-Quality-Code-master\13. Refactoring\WalkInMatrixTests\obj\Debug\WalkInMatrixTests.pdb

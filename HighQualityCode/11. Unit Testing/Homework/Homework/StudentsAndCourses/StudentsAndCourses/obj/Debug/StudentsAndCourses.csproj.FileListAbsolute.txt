@@ -1,0 +1,6 @@
+C:\Users\Pavlina\Desktop\StudentsAndCourses\StudentsAndCourses\bin\Debug\StudentsAndCourses.exe.config
+C:\Users\Pavlina\Desktop\StudentsAndCourses\StudentsAndCourses\bin\Debug\StudentsAndCourses.exe
+C:\Users\Pavlina\Desktop\StudentsAndCourses\StudentsAndCourses\bin\Debug\StudentsAndCourses.pdb
+C:\Users\Pavlina\Desktop\StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.csprojResolveAssemblyReference.cache
+C:\Users\Pavlina\Desktop\StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.exe
+C:\Users\Pavlina\Desktop\StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.pdb

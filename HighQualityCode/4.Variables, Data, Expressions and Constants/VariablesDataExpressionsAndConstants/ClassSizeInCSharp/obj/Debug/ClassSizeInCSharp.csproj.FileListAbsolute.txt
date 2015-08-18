@@ -1,0 +1,2 @@
+C:\Users\Pavlina\Desktop\JavaScript OOP Exam\VariablesDataExpressionsAndConstants\ClassSizeInCSharp\bin\Debug\ClassSizeInCSharp.exe.config
+C:\Users\Pavlina\Desktop\JavaScript OOP Exam\VariablesDataExpressionsAndConstants\ClassSizeInCSharp\obj\Debug\ClassSizeInCSharp.csprojResolveAssemblyReference.cache

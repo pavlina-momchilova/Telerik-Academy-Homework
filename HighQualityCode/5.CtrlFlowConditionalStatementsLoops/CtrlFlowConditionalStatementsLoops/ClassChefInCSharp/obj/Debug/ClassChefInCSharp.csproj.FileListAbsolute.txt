@@ -1,0 +1,1 @@
+E:\TelerikAcademy\High Quality Code\5.CtrlFlowConditionalStatementsLoops\CtrlFlowConditionalStatementsLoops\ClassChefInCSharp\bin\Debug\ClassChefInCSharp.exe.config

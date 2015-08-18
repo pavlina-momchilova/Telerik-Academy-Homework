@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeCatCoding", "DeCatCoding\DeCatCoding.csproj", "{66DC835D-DBAD-4B54-BA0C-2342B2FEE47C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasingAbsoluteDifferences", "IncreasingAbsoluteDifferences\IncreasingAbsoluteDifferences.csproj", "{75C7CAB6-BB03-4462-9DC7-161F21240D76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DC835D-DBAD-4B54-BA0C-2342B2FEE47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DC835D-DBAD-4B54-BA0C-2342B2FEE47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DC835D-DBAD-4B54-BA0C-2342B2FEE47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DC835D-DBAD-4B54-BA0C-2342B2FEE47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C7CAB6-BB03-4462-9DC7-161F21240D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C7CAB6-BB03-4462-9DC7-161F21240D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C7CAB6-BB03-4462-9DC7-161F21240D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C7CAB6-BB03-4462-9DC7-161F21240D76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

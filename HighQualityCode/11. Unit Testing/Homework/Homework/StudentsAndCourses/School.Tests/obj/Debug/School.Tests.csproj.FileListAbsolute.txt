@@ -1,0 +1,7 @@
+C:\Users\Pavlina\Desktop\StudentsAndCourses\School.Tests\bin\Debug\School.Tests.dll
+C:\Users\Pavlina\Desktop\StudentsAndCourses\School.Tests\bin\Debug\School.Tests.pdb
+C:\Users\Pavlina\Desktop\StudentsAndCourses\School.Tests\bin\Debug\StudentsAndCourses.exe
+C:\Users\Pavlina\Desktop\StudentsAndCourses\School.Tests\bin\Debug\StudentsAndCourses.pdb
+C:\Users\Pavlina\Desktop\StudentsAndCourses\School.Tests\obj\Debug\School.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pavlina\Desktop\StudentsAndCourses\School.Tests\obj\Debug\School.Tests.dll
+C:\Users\Pavlina\Desktop\StudentsAndCourses\School.Tests\obj\Debug\School.Tests.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\High Quality Code\5.CtrlFlowConditionalStatementsLoops\CSharpExam\DeCatCoding\bin\Debug\DeCatCoding.exe.config
+E:\TelerikAcademy\High Quality Code\5.CtrlFlowConditionalStatementsLoops\CSharpExam\DeCatCoding\bin\Debug\DeCatCoding.exe
+E:\TelerikAcademy\High Quality Code\5.CtrlFlowConditionalStatementsLoops\CSharpExam\DeCatCoding\bin\Debug\DeCatCoding.pdb
+E:\TelerikAcademy\High Quality Code\5.CtrlFlowConditionalStatementsLoops\CSharpExam\DeCatCoding\obj\Debug\DeCatCoding.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\High Quality Code\5.CtrlFlowConditionalStatementsLoops\CSharpExam\DeCatCoding\obj\Debug\DeCatCoding.exe
+E:\TelerikAcademy\High Quality Code\5.CtrlFlowConditionalStatementsLoops\CSharpExam\DeCatCoding\obj\Debug\DeCatCoding.pdb

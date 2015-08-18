@@ -1,0 +1,1 @@
+E:\TelerikAcademy\High Quality Code\7.Defensive Programming and Exceptions\DefensiveProgrammingAndExceptions\Assertions\bin\Debug\Assertions.exe.config

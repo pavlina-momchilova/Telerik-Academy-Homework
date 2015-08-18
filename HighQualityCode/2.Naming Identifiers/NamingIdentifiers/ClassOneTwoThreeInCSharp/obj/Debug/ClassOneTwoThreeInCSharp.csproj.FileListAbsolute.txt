@@ -1,0 +1,6 @@
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\ClassOneTwoThreeInCSharp\bin\Debug\ClassOneTwoThreeInCSharp.exe.config
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\ClassOneTwoThreeInCSharp\bin\Debug\ClassOneTwoThreeInCSharp.exe
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\ClassOneTwoThreeInCSharp\bin\Debug\ClassOneTwoThreeInCSharp.pdb
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\ClassOneTwoThreeInCSharp\obj\Debug\ClassOneTwoThreeInCSharp.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\ClassOneTwoThreeInCSharp\obj\Debug\ClassOneTwoThreeInCSharp.exe
+E:\TelerikAcademy\High Quality Code\2.Naming Identifiers\NamingIdentifiers\ClassOneTwoThreeInCSharp\obj\Debug\ClassOneTwoThreeInCSharp.pdb
