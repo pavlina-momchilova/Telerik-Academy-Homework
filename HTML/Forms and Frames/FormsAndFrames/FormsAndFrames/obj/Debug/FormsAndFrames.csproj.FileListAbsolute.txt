@@ -1,0 +1,6 @@
+E:\TelerikAcademy\HTML\Forms and Frames\FormsAndFrames\FormsAndFrames\bin\FormsAndFrames.dll.config
+E:\TelerikAcademy\HTML\Forms and Frames\FormsAndFrames\FormsAndFrames\bin\FormsAndFrames.dll
+E:\TelerikAcademy\HTML\Forms and Frames\FormsAndFrames\FormsAndFrames\bin\FormsAndFrames.pdb
+E:\TelerikAcademy\HTML\Forms and Frames\FormsAndFrames\FormsAndFrames\obj\Debug\FormsAndFrames.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\HTML\Forms and Frames\FormsAndFrames\FormsAndFrames\obj\Debug\FormsAndFrames.dll
+E:\TelerikAcademy\HTML\Forms and Frames\FormsAndFrames\FormsAndFrames\obj\Debug\FormsAndFrames.pdb

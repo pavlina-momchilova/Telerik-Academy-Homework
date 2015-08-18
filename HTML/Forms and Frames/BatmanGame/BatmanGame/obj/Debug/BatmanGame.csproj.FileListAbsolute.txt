@@ -1,0 +1,13 @@
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\bin\Debug\BatmanGame.exe.config
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\bin\Debug\BatmanGame.exe
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\bin\Debug\BatmanGame.pdb
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\BatmanGame.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\MainWindow.baml
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\MainWindow.g.cs
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\App.g.cs
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\BatmanGame_MarkupCompile.cache
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\BatmanGame.g.resources
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\BatmanGame.Properties.Resources.resources
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\BatmanGame.csproj.GenerateResource.Cache
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\BatmanGame.exe
+E:\TelerikAcademy\HTML\Forms and Frames\BatmanGame\BatmanGame\obj\Debug\BatmanGame.pdb

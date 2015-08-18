@@ -1,0 +1,6 @@
+E:\TelerikAcademy\HTML\Fundamentals- HTML\HTMLFundamentals\01.RunnersHomePage\bin\01.RunnersHomePage.dll.config
+E:\TelerikAcademy\HTML\Fundamentals- HTML\HTMLFundamentals\01.RunnersHomePage\bin\01.RunnersHomePage.dll
+E:\TelerikAcademy\HTML\Fundamentals- HTML\HTMLFundamentals\01.RunnersHomePage\bin\01.RunnersHomePage.pdb
+E:\TelerikAcademy\HTML\Fundamentals- HTML\HTMLFundamentals\01.RunnersHomePage\obj\Debug\01.RunnersHomePage.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\HTML\Fundamentals- HTML\HTMLFundamentals\01.RunnersHomePage\obj\Debug\01.RunnersHomePage.dll
+E:\TelerikAcademy\HTML\Fundamentals- HTML\HTMLFundamentals\01.RunnersHomePage\obj\Debug\01.RunnersHomePage.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\HTML\Semantic-Web\SemanticWeb\SemanticWeb\bin\SemanticWeb.dll.config
+E:\TelerikAcademy\HTML\Semantic-Web\SemanticWeb\SemanticWeb\bin\SemanticWeb.dll
+E:\TelerikAcademy\HTML\Semantic-Web\SemanticWeb\SemanticWeb\bin\SemanticWeb.pdb
+E:\TelerikAcademy\HTML\Semantic-Web\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\HTML\Semantic-Web\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.dll
+E:\TelerikAcademy\HTML\Semantic-Web\SemanticWeb\SemanticWeb\obj\Debug\SemanticWeb.pdb

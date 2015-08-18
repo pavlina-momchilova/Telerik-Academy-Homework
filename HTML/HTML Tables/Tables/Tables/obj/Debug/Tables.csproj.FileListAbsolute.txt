@@ -1,0 +1,6 @@
+E:\TelerikAcademy\HTML\HTML Tables\Tables\Tables\bin\Tables.dll.config
+E:\TelerikAcademy\HTML\HTML Tables\Tables\Tables\bin\Tables.dll
+E:\TelerikAcademy\HTML\HTML Tables\Tables\Tables\bin\Tables.pdb
+E:\TelerikAcademy\HTML\HTML Tables\Tables\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\HTML\HTML Tables\Tables\Tables\obj\Debug\Tables.dll
+E:\TelerikAcademy\HTML\HTML Tables\Tables\Tables\obj\Debug\Tables.pdb
