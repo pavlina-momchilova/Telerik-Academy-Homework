@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\01.Numbers-from-1-ToN\bin\Debug\01.Numbers-from-1-ToN.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\01.Numbers-from-1-ToN\bin\Debug\01.Numbers-from-1-ToN.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\01.Numbers-from-1-ToN\bin\Debug\01.Numbers-from-1-ToN.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\01.Numbers-from-1-ToN\obj\Debug\01.Numbers-from-1-ToN.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\9.Цикли\Loops\01.Numbers-from-1-ToN\obj\Debug\01.Numbers-from-1-ToN.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\01.Numbers-from-1-ToN\obj\Debug\01.Numbers-from-1-ToN.pdb

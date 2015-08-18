@@ -1,0 +1,8 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\05.Boolean-Variable\bin\Debug\05.Boolean-Variable.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\05.Boolean-Variable\bin\Debug\05.Boolean-Variable.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\05.Boolean-Variable\bin\Debug\05.Boolean-Variable.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\05.Boolean-Variable\obj\Debug\05.Boolean-Variable.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\05.Boolean-Variable\obj\Debug\05.Boolean-Variable.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\05.Boolean-Variable\bin\Debug\05.Boolean-Variable.exe.config
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\05.Boolean-Variable\obj\Debug\05.Boolean-Variable.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\05.Boolean-Variable\obj\Debug\05.Boolean-Variable.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\13.Check a Bit at Given Position\bin\Debug\13.Check a Bit at Given Position.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\13.Check a Bit at Given Position\bin\Debug\13.Check a Bit at Given Position.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\13.Check a Bit at Given Position\bin\Debug\13.Check a Bit at Given Position.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\13.Check a Bit at Given Position\obj\Debug\13.Check a Bit at Given Position.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\13.Check a Bit at Given Position\obj\Debug\13.Check a Bit at Given Position.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\13.Check a Bit at Given Position\obj\Debug\13.Check a Bit at Given Position.pdb

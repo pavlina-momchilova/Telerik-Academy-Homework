@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\02.Print-Compan-Information\bin\Debug\02.Print-Compan-Information.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\02.Print-Compan-Information\bin\Debug\02.Print-Compan-Information.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\02.Print-Compan-Information\bin\Debug\02.Print-Compan-Information.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\02.Print-Compan-Information\obj\Debug\02.Print-Compan-Information.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\02.Print-Compan-Information\obj\Debug\02.Print-Compan-Information.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\02.Print-Compan-Information\obj\Debug\02.Print-Compan-Information.pdb

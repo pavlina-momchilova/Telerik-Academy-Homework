@@ -1,0 +1,1 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config

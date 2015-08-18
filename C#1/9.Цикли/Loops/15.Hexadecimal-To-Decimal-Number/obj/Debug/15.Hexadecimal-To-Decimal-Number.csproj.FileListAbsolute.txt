@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\15.Hexadecimal-To-Decimal-Number\bin\Debug\15.Hexadecimal-To-Decimal-Number.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\15.Hexadecimal-To-Decimal-Number\bin\Debug\15.Hexadecimal-To-Decimal-Number.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\15.Hexadecimal-To-Decimal-Number\bin\Debug\15.Hexadecimal-To-Decimal-Number.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\15.Hexadecimal-To-Decimal-Number\obj\Debug\15.Hexadecimal-To-Decimal-Number.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\15.Hexadecimal-To-Decimal-Number\obj\Debug\15.Hexadecimal-To-Decimal-Number.pdb

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\16.Print-Long-Sequence\bin\Debug\16.Print-Long-Sequence.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\16.Print-Long-Sequence\bin\Debug\16.Print-Long-Sequence.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\16.Print-Long-Sequence\bin\Debug\16.Print-Long-Sequence.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\16.Print-Long-Sequence\obj\Debug\16.Print-Long-Sequence.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\16.Print-Long-Sequence\obj\Debug\16.Print-Long-Sequence.pdb

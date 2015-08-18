@@ -1,0 +1,10 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe.config
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.pdb

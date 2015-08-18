@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\17.Play-With-Debugger\bin\Debug\17.Play-With-Debugger.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\17.Play-With-Debugger\bin\Debug\17.Play-With-Debugger.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\17.Play-With-Debugger\bin\Debug\17.Play-With-Debugger.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\17.Play-With-Debugger\obj\Debug\17.Play-With-Debugger.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\17.Play-With-Debugger\obj\Debug\17.Play-With-Debugger.pdb

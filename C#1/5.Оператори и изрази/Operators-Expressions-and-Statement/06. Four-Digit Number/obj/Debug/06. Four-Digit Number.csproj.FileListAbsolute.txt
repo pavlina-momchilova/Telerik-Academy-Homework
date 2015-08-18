@@ -1,0 +1,12 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\06. Four-Digit Number\obj\Debug\_06.Four_Digit_Number.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\06. Four-Digit Number\obj\Debug\_06.Four_Digit_Number.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\06. Four-Digit Number\obj\Debug\06. Four-Digit Number.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\06. Four-Digit Number\obj\Debug\_06.Four_Digit_Number.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\06. Four-Digit Number\obj\Debug\_06.Four_Digit_Number.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\06. Four-Digit Number\obj\Debug\06. Four-Digit Number.csprojResolveAssemblyReference.cache

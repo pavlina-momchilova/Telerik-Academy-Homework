@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\15.Age-After-Ten-Years\bin\Debug\15.Age-After-Ten-Years.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\15.Age-After-Ten-Years\bin\Debug\15.Age-After-Ten-Years.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\15.Age-After-Ten-Years\bin\Debug\15.Age-After-Ten-Years.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\15.Age-After-Ten-Years\obj\Debug\15.Age-After-Ten-Years.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\15.Age-After-Ten-Years\obj\Debug\15.Age-After-Ten-Years.pdb

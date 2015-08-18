@@ -1,0 +1,1 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\Bitwise Extract Bit sharp3\bin\Debug\Bitwise Extract Bit sharp3.exe.config

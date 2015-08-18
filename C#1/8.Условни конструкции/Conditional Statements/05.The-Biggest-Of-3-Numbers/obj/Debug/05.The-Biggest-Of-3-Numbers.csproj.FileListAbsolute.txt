@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\05.The-Biggest-Of-3-Numbers\bin\Debug\05.The-Biggest-Of-3-Numbers.exe.config
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\05.The-Biggest-Of-3-Numbers\bin\Debug\05.The-Biggest-Of-3-Numbers.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\05.The-Biggest-Of-3-Numbers\bin\Debug\05.The-Biggest-Of-3-Numbers.pdb
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\05.The-Biggest-Of-3-Numbers\obj\Debug\05.The-Biggest-Of-3-Numbers.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\05.The-Biggest-Of-3-Numbers\obj\Debug\05.The-Biggest-Of-3-Numbers.pdb

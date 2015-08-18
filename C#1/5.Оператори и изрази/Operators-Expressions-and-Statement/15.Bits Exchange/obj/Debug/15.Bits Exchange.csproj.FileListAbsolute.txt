@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\15.Bits Exchange\bin\Debug\15.Bits Exchange.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\15.Bits Exchange\obj\Debug\15.Bits Exchange.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\15.Bits Exchange\obj\Debug\15.Bits Exchange.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\15.Bits Exchange\obj\Debug\15.Bits Exchange.pdb

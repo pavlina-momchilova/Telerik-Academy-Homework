@@ -1,0 +1,8 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\04.Unicode-Character\bin\Debug\04.Unicode-Character.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\04.Unicode-Character\bin\Debug\04.Unicode-Character.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\04.Unicode-Character\bin\Debug\04.Unicode-Character.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\04.Unicode-Character\obj\Debug\04.Unicode-Character.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\04.Unicode-Character\obj\Debug\04.Unicode-Character.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\04.Unicode-Character\bin\Debug\04.Unicode-Character.exe.config
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\04.Unicode-Character\obj\Debug\04.Unicode-Character.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\04.Unicode-Character\obj\Debug\04.Unicode-Character.pdb

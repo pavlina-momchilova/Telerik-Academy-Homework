@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\01.Hello-CSharp\bin\Debug\01.Hello-CSharp.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\01.Hello-CSharp\bin\Debug\01.Hello-CSharp.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\01.Hello-CSharp\bin\Debug\01.Hello-CSharp.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\01.Hello-CSharp\obj\Debug\01.Hello-CSharp.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\01.Hello-CSharp\obj\Debug\01.Hello-CSharp.pdb

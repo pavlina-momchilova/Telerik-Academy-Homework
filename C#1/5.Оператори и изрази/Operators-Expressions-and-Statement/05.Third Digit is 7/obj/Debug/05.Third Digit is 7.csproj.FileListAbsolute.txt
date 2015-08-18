@@ -1,0 +1,10 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.pdb

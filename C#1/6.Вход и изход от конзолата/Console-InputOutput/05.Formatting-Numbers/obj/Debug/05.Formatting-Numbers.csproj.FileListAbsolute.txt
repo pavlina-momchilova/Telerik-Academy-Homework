@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\05.Formatting-Numbers\bin\Debug\05.Formatting-Numbers.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\05.Formatting-Numbers\bin\Debug\05.Formatting-Numbers.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\05.Formatting-Numbers\bin\Debug\05.Formatting-Numbers.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\05.Formatting-Numbers\obj\Debug\05.Formatting-Numbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\05.Formatting-Numbers\obj\Debug\05.Formatting-Numbers.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\05.Formatting-Numbers\obj\Debug\05.Formatting-Numbers.pdb

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\07.Print-First-Last-name\bin\Debug\07.Print-First-Last-name.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\07.Print-First-Last-name\bin\Debug\07.Print-First-Last-name.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\07.Print-First-Last-name\bin\Debug\07.Print-First-Last-name.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\07.Print-First-Last-name\obj\Debug\07.Print-First-Last-name.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\07.Print-First-Last-name\obj\Debug\07.Print-First-Last-name.pdb

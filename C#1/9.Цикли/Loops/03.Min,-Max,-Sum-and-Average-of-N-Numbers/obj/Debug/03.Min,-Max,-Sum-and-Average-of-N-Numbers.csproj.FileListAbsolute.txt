@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\03.Min,-Max,-Sum-and-Average-of-N-Numbers\bin\Debug\03.Min,-Max,-Sum-and-Average-of-N-Numbers.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\03.Min,-Max,-Sum-and-Average-of-N-Numbers\bin\Debug\03.Min,-Max,-Sum-and-Average-of-N-Numbers.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\03.Min,-Max,-Sum-and-Average-of-N-Numbers\bin\Debug\03.Min,-Max,-Sum-and-Average-of-N-Numbers.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\03.Min,-Max,-Sum-and-Average-of-N-Numbers\obj\Debug\03.Min,-Max,-Sum-and-Average-of-N-Numbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\9.Цикли\Loops\03.Min,-Max,-Sum-and-Average-of-N-Numbers\obj\Debug\03.Min,-Max,-Sum-and-Average-of-N-Numbers.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\03.Min,-Max,-Sum-and-Average-of-N-Numbers\obj\Debug\03.Min,-Max,-Sum-and-Average-of-N-Numbers.pdb

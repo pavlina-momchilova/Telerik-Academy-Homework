@@ -1,0 +1,8 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\07.Sum-Of-5-Numbers\bin\Debug\07.Sum-Of-5-Numbers.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\07.Sum-Of-5-Numbers\bin\Debug\07.Sum-Of-5-Numbers.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\07.Sum-Of-5-Numbers\bin\Debug\07.Sum-Of-5-Numbers.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\07.Sum-Of-5-Numbers\obj\Debug\07.Sum-Of-5-Numbers.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\07.Sum-Of-5-Numbers\obj\Debug\07.Sum-Of-5-Numbers.pdb
+E:\TelerikAcademy\C#\6.Вход и изход от конзолата\Console-InputOutput\07.Sum-Of-5-Numbers\bin\Debug\07.Sum-Of-5-Numbers.exe.config
+E:\TelerikAcademy\C#\6.Вход и изход от конзолата\Console-InputOutput\07.Sum-Of-5-Numbers\obj\Debug\07.Sum-Of-5-Numbers.exe
+E:\TelerikAcademy\C#\6.Вход и изход от конзолата\Console-InputOutput\07.Sum-Of-5-Numbers\obj\Debug\07.Sum-Of-5-Numbers.pdb

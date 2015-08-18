@@ -1,0 +1,8 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\08.Prime Number Check\bin\Debug\08.Prime Number Check.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\08.Prime Number Check\bin\Debug\08.Prime Number Check.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\08.Prime Number Check\bin\Debug\08.Prime Number Check.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\08.Prime Number Check\obj\Debug\08.Prime Number Check.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\08.Prime Number Check\obj\Debug\08.Prime Number Check.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\08.Prime Number Check\bin\Debug\08.Prime Number Check.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\08.Prime Number Check\obj\Debug\08.Prime Number Check.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\08.Prime Number Check\obj\Debug\08.Prime Number Check.pdb

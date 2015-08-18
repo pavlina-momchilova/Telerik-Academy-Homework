@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb

@@ -1,0 +1,10 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\bin\Debug\09.Exchange-Variable-Values.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\bin\Debug\09.Exchange-Variable-Values.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\bin\Debug\09.Exchange-Variable-Values.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\obj\Debug\09.Exchange-Variable-Values.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\obj\Debug\09.Exchange-Variable-Values.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\bin\Debug\09.Exchange-Variable-Values.exe.config
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\obj\Debug\09.Exchange-Variable-Values.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\obj\Debug\09.Exchange-Variable-Values.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\bin\Debug\09.Exchange-Variable-Values.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\09.Exchange-Variable-Values\bin\Debug\09.Exchange-Variable-Values.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).pdb

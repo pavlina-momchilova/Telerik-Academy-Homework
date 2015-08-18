@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\14.Current-Date-Time\bin\Debug\14.Current-Date-Time.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\14.Current-Date-Time\bin\Debug\14.Current-Date-Time.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\14.Current-Date-Time\bin\Debug\14.Current-Date-Time.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\14.Current-Date-Time\obj\Debug\14.Current-Date-Time.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\14.Current-Date-Time\obj\Debug\14.Current-Date-Time.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\14.Current-Date-Time\obj\Debug\14.Current-Date-Time.pdb

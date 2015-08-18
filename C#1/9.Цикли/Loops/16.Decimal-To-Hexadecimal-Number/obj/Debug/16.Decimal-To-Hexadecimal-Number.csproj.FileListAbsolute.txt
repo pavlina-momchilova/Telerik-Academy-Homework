@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\16.Decimal-To-Hexadecimal-Number\bin\Debug\16.Decimal-To-Hexadecimal-Number.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\16.Decimal-To-Hexadecimal-Number\bin\Debug\16.Decimal-To-Hexadecimal-Number.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\16.Decimal-To-Hexadecimal-Number\bin\Debug\16.Decimal-To-Hexadecimal-Number.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\16.Decimal-To-Hexadecimal-Number\obj\Debug\16.Decimal-To-Hexadecimal-Number.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\9.Цикли\Loops\16.Decimal-To-Hexadecimal-Number\obj\Debug\16.Decimal-To-Hexadecimal-Number.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\16.Decimal-To-Hexadecimal-Number\obj\Debug\16.Decimal-To-Hexadecimal-Number.pdb

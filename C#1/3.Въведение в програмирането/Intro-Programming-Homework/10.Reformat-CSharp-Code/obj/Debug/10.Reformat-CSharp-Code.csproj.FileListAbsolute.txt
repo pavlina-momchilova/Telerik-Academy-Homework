@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\10.Reformat-CSharp-Code\bin\Debug\10.Reformat-CSharp-Code.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\10.Reformat-CSharp-Code\bin\Debug\10.Reformat-CSharp-Code.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\10.Reformat-CSharp-Code\bin\Debug\10.Reformat-CSharp-Code.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\10.Reformat-CSharp-Code\obj\Debug\10.Reformat-CSharp-Code.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\10.Reformat-CSharp-Code\obj\Debug\10.Reformat-CSharp-Code.pdb

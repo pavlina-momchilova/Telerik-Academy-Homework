@@ -1,0 +1,8 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\03.Circle-Perimeter-And-Area\bin\Debug\03.Circle-Perimeter-And-Area.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\03.Circle-Perimeter-And-Area\bin\Debug\03.Circle-Perimeter-And-Area.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\03.Circle-Perimeter-And-Area\bin\Debug\03.Circle-Perimeter-And-Area.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\03.Circle-Perimeter-And-Area\obj\Debug\03.Circle-Perimeter-And-Area.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\03.Circle-Perimeter-And-Area\obj\Debug\03.Circle-Perimeter-And-Area.pdb
+E:\TelerikAcademy\C#\6.Вход и изход от конзолата\Console-InputOutput\03.Circle-Perimeter-And-Area\bin\Debug\03.Circle-Perimeter-And-Area.exe.config
+E:\TelerikAcademy\C#\6.Вход и изход от конзолата\Console-InputOutput\03.Circle-Perimeter-And-Area\obj\Debug\03.Circle-Perimeter-And-Area.exe
+E:\TelerikAcademy\C#\6.Вход и изход от конзолата\Console-InputOutput\03.Circle-Perimeter-And-Area\obj\Debug\03.Circle-Perimeter-And-Area.pdb

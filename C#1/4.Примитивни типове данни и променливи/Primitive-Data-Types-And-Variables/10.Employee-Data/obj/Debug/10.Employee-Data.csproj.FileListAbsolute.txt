@@ -1,0 +1,10 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\10.Employee-Data\bin\Debug\10.Employee-Data.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\10.Employee-Data\bin\Debug\10.Employee-Data.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\10.Employee-Data\bin\Debug\10.Employee-Data.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\10.Employee-Data\obj\Debug\10.Employee-Data.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\10.Employee-Data\obj\Debug\10.Employee-Data.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\10.Employee-Data\bin\Debug\10.Employee-Data.exe.config
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\10.Employee-Data\obj\Debug\10.Employee-Data.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\10.Employee-Data\obj\Debug\10.Employee-Data.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\10.Employee-Data\bin\Debug\10.Employee-Data.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\10.Employee-Data\bin\Debug\10.Employee-Data.pdb

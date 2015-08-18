@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\12.Randomize-the-Numbers1-N\bin\Debug\12.Randomize-the-Numbers1-N.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\12.Randomize-the-Numbers1-N\bin\Debug\12.Randomize-the-Numbers1-N.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\12.Randomize-the-Numbers1-N\bin\Debug\12.Randomize-the-Numbers1-N.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\12.Randomize-the-Numbers1-N\obj\Debug\12.Randomize-the-Numbers1-N.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\9.Цикли\Loops\12.Randomize-the-Numbers1-N\obj\Debug\12.Randomize-the-Numbers1-N.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\12.Randomize-the-Numbers1-N\obj\Debug\12.Randomize-the-Numbers1-N.pdb

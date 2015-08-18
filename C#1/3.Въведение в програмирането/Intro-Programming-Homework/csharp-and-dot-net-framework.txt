@@ -1,0 +1,9 @@
+C# and C#.NET are the same thing... C#
+.NET is, as you say, a library of code that .NET languages can talk to.
+.NET languages come in different flavours such as: C#.NET, VB.NET, Managed C++, F#.
+.NET languages compile to CIL (Common Intermediate Language) which means they all start 
+"talking" the same language and can therefore interoperate.
+ASP.NET is the portion of the .NET library used for making web sites. There are other subsections of ASP.NET like WebForms
+(the old way of making web pages) or the rapidly maturing MVC library that are worth looking at too.
+Forms (old tech) or the new WPF (Windows Presentation Foundation) are the technologies you'd typically use in
+.NET to create what you know as traditional desktop applications.

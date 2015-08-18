@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\04.Print a Deck-of-52-Cards\bin\Debug\04.Print a Deck-of-52-Cards.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\04.Print a Deck-of-52-Cards\bin\Debug\04.Print a Deck-of-52-Cards.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\04.Print a Deck-of-52-Cards\bin\Debug\04.Print a Deck-of-52-Cards.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\04.Print a Deck-of-52-Cards\obj\Debug\04.Print-a-Deck-of-52-Cards.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\9.Цикли\Loops\04.Print a Deck-of-52-Cards\obj\Debug\04.Print a Deck-of-52-Cards.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\04.Print a Deck-of-52-Cards\obj\Debug\04.Print a Deck-of-52-Cards.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\06.Quadratic-Equation\bin\Debug\06.Quadratic-Equation.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\06.Quadratic-Equation\bin\Debug\06.Quadratic-Equation.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\06.Quadratic-Equation\bin\Debug\06.Quadratic-Equation.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\06.Quadratic-Equation\obj\Debug\06.Quadratic-Equation.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\06.Quadratic-Equation\obj\Debug\06.Quadratic-Equation.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\06.Quadratic-Equation\obj\Debug\06.Quadratic-Equation.pdb

@@ -1,0 +1,10 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\02.Gravitation-On-The-Moon\bin\Debug\02.Gravitation-On-The-Moon.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\02.Gravitation-On-The-Moon\bin\Debug\02.Gravitation-On-The-Moon.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\02.Gravitation-On-The-Moon\bin\Debug\02.Gravitation-On-The-Moon.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\02.Gravitation-On-The-Moon\obj\Debug\02.Gravitation-On-The-Moon.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\02.Gravitation-On-The-Moon\obj\Debug\02.Gravitation-On-The-Moon.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\02.Gravitation-On-The-Moon\bin\Debug\02.Gravitation-On-The-Moon.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\02.Gravitation-On-The-Moon\obj\Debug\02.Gravitation-On-The-Moon.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\02.Gravitation-On-The-Moon\obj\Debug\02.Gravitation-On-The-Moon.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\02.Gravitation-On-The-Moon\bin\Debug\02.Gravitation-On-The-Moon.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\02.Gravitation-On-The-Moon\bin\Debug\02.Gravitation-On-The-Moon.pdb

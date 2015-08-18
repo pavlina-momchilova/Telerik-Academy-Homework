@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\04.Number-Comparer\bin\Debug\04.Number-Comparer.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\04.Number-Comparer\bin\Debug\04.Number-Comparer.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\04.Number-Comparer\bin\Debug\04.Number-Comparer.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\04.Number-Comparer\obj\Debug\04.Number-Comparer.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\04.Number-Comparer\obj\Debug\04.Number-Comparer.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\04.Number-Comparer\obj\Debug\04.Number-Comparer.csprojResolveAssemblyReference.cache

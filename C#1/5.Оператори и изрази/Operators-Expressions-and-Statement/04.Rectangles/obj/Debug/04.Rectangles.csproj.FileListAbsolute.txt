@@ -1,0 +1,10 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\04.Rectangles\bin\Debug\04.Rectangles.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\04.Rectangles\bin\Debug\04.Rectangles.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\04.Rectangles\obj\Debug\04.Rectangles.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\04.Rectangles\obj\Debug\04.Rectangles.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\04.Rectangles\obj\Debug\04.Rectangles.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\04.Rectangles\obj\Debug\04.Rectangles.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\04.Rectangles\bin\Debug\04.Rectangles.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\04.Rectangles\bin\Debug\04.Rectangles.pdb

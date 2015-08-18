@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\06.Print-Numbers\bin\Debug\06.Print-Numbers.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\06.Print-Numbers\bin\Debug\06.Print-Numbers.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\06.Print-Numbers\bin\Debug\06.Print-Numbers.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\06.Print-Numbers\obj\Debug\06.Print-Numbers.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\06.Print-Numbers\obj\Debug\06.Print-Numbers.pdb

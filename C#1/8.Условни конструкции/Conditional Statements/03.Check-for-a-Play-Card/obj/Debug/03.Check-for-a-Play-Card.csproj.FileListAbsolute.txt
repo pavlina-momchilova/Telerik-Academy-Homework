@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\03.Check-for-a-Play-Card\bin\Debug\03.Check-for-a-Play-Card.exe.config
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\03.Check-for-a-Play-Card\bin\Debug\03.Check-for-a-Play-Card.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\03.Check-for-a-Play-Card\bin\Debug\03.Check-for-a-Play-Card.pdb
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\03.Check-for-a-Play-Card\obj\Debug\03.Check-for-a-Play-Card.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\03.Check-for-a-Play-Card\obj\Debug\03.Check-for-a-Play-Card.pdb
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\03.Check-for-a-Play-Card\obj\Debug\03.Check-for-a-Play-Card.csprojResolveAssemblyReference.cache

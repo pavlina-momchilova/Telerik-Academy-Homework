@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\09.Print-a-Sequence\bin\Debug\09.Print-a-Sequence.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\09.Print-a-Sequence\bin\Debug\09.Print-a-Sequence.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\09.Print-a-Sequence\bin\Debug\09.Print-a-Sequence.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\09.Print-a-Sequence\obj\Debug\09.Print-a-Sequence.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Intro-Programming-Homework\09.Print-a-Sequence\obj\Debug\09.Print-a-Sequence.pdb

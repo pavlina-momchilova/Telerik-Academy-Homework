@@ -1,0 +1,8 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\07.Quotes-in-Strings\bin\Debug\07.Quotes-in-Strings.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\07.Quotes-in-Strings\bin\Debug\07.Quotes-in-Strings.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\07.Quotes-in-Strings\bin\Debug\07.Quotes-in-Strings.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\07.Quotes-in-Strings\obj\Debug\07.Quotes-in-Strings.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\07.Quotes-in-Strings\obj\Debug\07.Quotes-in-Strings.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\07.Quotes-in-Strings\bin\Debug\07.Quotes-in-Strings.exe.config
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\07.Quotes-in-Strings\obj\Debug\07.Quotes-in-Strings.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\07.Quotes-in-Strings\obj\Debug\07.Quotes-in-Strings.pdb

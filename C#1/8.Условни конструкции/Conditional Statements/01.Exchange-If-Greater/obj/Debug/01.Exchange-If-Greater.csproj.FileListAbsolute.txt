@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\01.Exchange-If-Greater\bin\Debug\01.Exchange-If-Greater.exe.config
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\01.Exchange-If-Greater\bin\Debug\01.Exchange-If-Greater.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\01.Exchange-If-Greater\bin\Debug\01.Exchange-If-Greater.pdb
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\01.Exchange-If-Greater\obj\Debug\01.Exchange-If-Greater.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\01.Exchange-If-Greater\obj\Debug\01.Exchange-If-Greater.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\01.Exchange-If-Greater\obj\Debug\01.Exchange-If-Greater.pdb

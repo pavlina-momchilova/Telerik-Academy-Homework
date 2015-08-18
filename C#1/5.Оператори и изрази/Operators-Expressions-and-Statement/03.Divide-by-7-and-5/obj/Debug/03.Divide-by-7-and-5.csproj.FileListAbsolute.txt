@@ -1,0 +1,10 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\03.Divide-by-7-and-5\bin\Debug\03.Divide-by-7-and-5.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\03.Divide-by-7-and-5\bin\Debug\03.Divide-by-7-and-5.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\03.Divide-by-7-and-5\bin\Debug\03.Divide-by-7-and-5.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\03.Divide-by-7-and-5\obj\Debug\03.Divide-by-7-and-5.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\03.Divide-by-7-and-5\obj\Debug\03.Divide-by-7-and-5.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\03.Divide-by-7-and-5\bin\Debug\03.Divide-by-7-and-5.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\03.Divide-by-7-and-5\obj\Debug\03.Divide-by-7-and-5.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\03.Divide-by-7-and-5\obj\Debug\03.Divide-by-7-and-5.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\03.Divide-by-7-and-5\bin\Debug\03.Divide-by-7-and-5.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\03.Divide-by-7-and-5\bin\Debug\03.Divide-by-7-and-5.pdb

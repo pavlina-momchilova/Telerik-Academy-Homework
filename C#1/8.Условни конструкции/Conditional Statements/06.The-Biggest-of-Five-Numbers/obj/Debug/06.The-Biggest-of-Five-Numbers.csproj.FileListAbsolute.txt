@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.exe.config
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.pdb
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.pdb

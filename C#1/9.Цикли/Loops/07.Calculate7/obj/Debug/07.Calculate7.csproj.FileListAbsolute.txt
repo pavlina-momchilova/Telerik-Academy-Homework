@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\07.Calculate7\bin\Debug\07.Calculate7.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\07.Calculate7\bin\Debug\07.Calculate7.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\07.Calculate7\bin\Debug\07.Calculate7.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\07.Calculate7\obj\Debug\07.Calculate7.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\9.Цикли\Loops\07.Calculate7\obj\Debug\07.Calculate7.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\07.Calculate7\obj\Debug\07.Calculate7.pdb

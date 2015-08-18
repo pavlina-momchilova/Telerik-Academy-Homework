@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\09.Sum-Of n-Numbers\bin\Debug\09.Sum-Of n-Numbers.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\09.Sum-Of n-Numbers\bin\Debug\09.Sum-Of n-Numbers.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\09.Sum-Of n-Numbers\bin\Debug\09.Sum-Of n-Numbers.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\09.Sum-Of n-Numbers\obj\Debug\09.Sum-Of n-Numbers.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Console-InputOutput\09.Sum-Of n-Numbers\obj\Debug\09.Sum-Of n-Numbers.pdb

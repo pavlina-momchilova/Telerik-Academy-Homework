@@ -1,0 +1,8 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\02.Float-or-Double\bin\Debug\02.Float-or-Double.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\02.Float-or-Double\bin\Debug\02.Float-or-Double.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\02.Float-or-Double\bin\Debug\02.Float-or-Double.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\02.Float-or-Double\obj\Debug\02.Float-or-Double.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\02.Float-or-Double\obj\Debug\02.Float-or-Double.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\02.Float-or-Double\bin\Debug\02.Float-or-Double.exe.config
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\02.Float-or-Double\obj\Debug\02.Float-or-Double.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\02.Float-or-Double\obj\Debug\02.Float-or-Double.pdb

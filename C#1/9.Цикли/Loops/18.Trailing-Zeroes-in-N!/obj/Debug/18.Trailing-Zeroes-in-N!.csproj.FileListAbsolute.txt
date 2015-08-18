@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\18.Trailing-Zeroes-in-N!\bin\Debug\18.Trailing-Zeroes-in-N!.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\18.Trailing-Zeroes-in-N!\obj\Debug\18.Trailing-Zeroes-in-N!.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\9.Цикли\Loops\18.Trailing-Zeroes-in-N!\bin\Debug\18.Trailing-Zeroes-in-N!.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\18.Trailing-Zeroes-in-N!\bin\Debug\18.Trailing-Zeroes-in-N!.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\18.Trailing-Zeroes-in-N!\obj\Debug\18.Trailing-Zeroes-in-N!.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\18.Trailing-Zeroes-in-N!\obj\Debug\18.Trailing-Zeroes-in-N!.pdb

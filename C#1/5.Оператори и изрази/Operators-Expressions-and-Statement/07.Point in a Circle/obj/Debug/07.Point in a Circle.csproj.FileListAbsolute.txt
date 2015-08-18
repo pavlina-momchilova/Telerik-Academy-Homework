@@ -1,0 +1,12 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\07.Point in a Circle\bin\Debug\07.Point in a Circle.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\07.Point in a Circle\bin\Debug\07.Point in a Circle.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\07.Point in a Circle\bin\Debug\07.Point in a Circle.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\07.Point in a Circle\obj\Debug\07.Point in a Circle.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\07.Point in a Circle\obj\Debug\07.Point in a Circle.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\07.Point in a Circle\obj\Debug\07.Point in a Circle.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\07.Point in a Circle\bin\Debug\07.Point in a Circle.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\07.Point in a Circle\obj\Debug\07.Point in a Circle.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\07.Point in a Circle\obj\Debug\07.Point in a Circle.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\07.Point in a Circle\bin\Debug\07.Point in a Circle.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\07.Point in a Circle\bin\Debug\07.Point in a Circle.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\Operators-Expressions-and-Statement\07.Point in a Circle\obj\Debug\07.Point in a Circle.csprojResolveAssemblyReference.cache

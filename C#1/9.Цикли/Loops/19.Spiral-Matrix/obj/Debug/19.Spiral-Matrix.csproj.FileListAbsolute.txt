@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\19.Spiral-Matrix\bin\Debug\19.Spiral-Matrix.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\19.Spiral-Matrix\bin\Debug\19.Spiral-Matrix.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\19.Spiral-Matrix\bin\Debug\19.Spiral-Matrix.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\19.Spiral-Matrix\obj\Debug\19.Spiral-Matrix.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\9.Цикли\Loops\19.Spiral-Matrix\obj\Debug\19.Spiral-Matrix.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\19.Spiral-Matrix\obj\Debug\19.Spiral-Matrix.pdb

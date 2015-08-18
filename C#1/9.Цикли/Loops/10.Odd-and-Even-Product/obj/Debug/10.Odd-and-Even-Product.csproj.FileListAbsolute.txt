@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\9.Цикли\Loops\10.Odd-and-Even-Product\bin\Debug\10.Odd-and-Even-Product.exe.config
+E:\TelerikAcademy\C#\9.Цикли\Loops\10.Odd-and-Even-Product\bin\Debug\10.Odd-and-Even-Product.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\10.Odd-and-Even-Product\bin\Debug\10.Odd-and-Even-Product.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\10.Odd-and-Even-Product\obj\Debug\10.Odd-and-Even-Product.exe
+E:\TelerikAcademy\C#\9.Цикли\Loops\10.Odd-and-Even-Product\obj\Debug\10.Odd-and-Even-Product.pdb
+E:\TelerikAcademy\C#\9.Цикли\Loops\10.Odd-and-Even-Product\obj\Debug\10.Odd-and-Even-Product.csprojResolveAssemblyReference.cache

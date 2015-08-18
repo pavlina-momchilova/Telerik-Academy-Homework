@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.exe.config
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.pdb
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\12.Extract Bit from Integer\obj\Debug\12.Extract Bit from Integer.exe
+E:\TelerikAcademy\C#\5.Оператори и изрази\01.Odd-Or-Even-Integers\12.Extract Bit from Integer\obj\Debug\12.Extract Bit from Integer.pdb

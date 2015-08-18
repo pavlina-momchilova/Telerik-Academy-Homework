@@ -1,0 +1,9 @@
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\01.Declare-Variables\bin\Debug\01.Declare-Variables.exe.config
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\01.Declare-Variables\bin\Debug\01.Declare-Variables.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\01.Declare-Variables\bin\Debug\01.Declare-Variables.pdb
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\01.Declare-Variables\obj\Debug\01.Declare-Variables.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\01.Declare-Variables\obj\Debug\01.Declare-Variables.exe
+E:\TelerikAcademy\C#\3.Въведение в програмирането\Primitive-Data-Types-And-Variables\01.Declare-Variables\obj\Debug\01.Declare-Variables.pdb
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\01.Declare-Variables\bin\Debug\01.Declare-Variables.exe.config
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\01.Declare-Variables\obj\Debug\01.Declare-Variables.exe
+E:\TelerikAcademy\C#\4.Примитивни типове данни и променливи\Primitive-Data-Types-And-Variables\01.Declare-Variables\obj\Debug\01.Declare-Variables.pdb

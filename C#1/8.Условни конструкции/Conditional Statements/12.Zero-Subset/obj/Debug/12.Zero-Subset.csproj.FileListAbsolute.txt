@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\12.Zero-Subset\bin\Debug\12.Zero-Subset.exe.config
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\12.Zero-Subset\bin\Debug\12.Zero-Subset.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\12.Zero-Subset\bin\Debug\12.Zero-Subset.pdb
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\12.Zero-Subset\obj\Debug\12.Zero-Subset.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\12.Zero-Subset\obj\Debug\12.Zero-Subset.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\12.Zero-Subset\obj\Debug\12.Zero-Subset.pdb

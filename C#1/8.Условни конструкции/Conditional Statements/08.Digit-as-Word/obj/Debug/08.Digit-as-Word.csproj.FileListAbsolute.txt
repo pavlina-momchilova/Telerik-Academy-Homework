@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.exe.config
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.pdb
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.exe
+E:\TelerikAcademy\C#\8.Условни конструкции\Conditional Statements\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.pdb
