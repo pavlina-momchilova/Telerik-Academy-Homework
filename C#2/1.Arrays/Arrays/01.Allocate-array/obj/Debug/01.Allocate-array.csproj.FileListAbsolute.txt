@@ -1,0 +1,7 @@
+C:\Users\Pavlina\Desktop\Arrays\01.Allocate-array\bin\Debug\01.Allocate-array.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\01.Allocate-array\bin\Debug\01.Allocate-array.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\01.Allocate-array\bin\Debug\01.Allocate-array.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\01.Allocate-array\bin\Debug\01.Allocate-array.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\01.Allocate-array\obj\Debug\01.Allocate-array.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\01.Allocate-array\obj\Debug\01.Allocate-array.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\01.Allocate-array\obj\Debug\01.Allocate-array.pdb

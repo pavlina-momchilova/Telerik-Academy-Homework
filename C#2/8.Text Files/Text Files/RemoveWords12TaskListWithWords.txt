@@ -1,0 +1,7 @@
+Plane
+dog
+animal
+bird
+horse
+doctor
+pufi

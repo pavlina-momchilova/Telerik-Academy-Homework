@@ -1,0 +1,1 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe.config

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\3.Methods\Methods\12.Subtracting-Polynomials\bin\Debug\12.Subtracting-Polynomials.exe.config
+E:\TelerikAcademy\C#2\3.Methods\Methods\12.Subtracting-Polynomials\bin\Debug\12.Subtracting-Polynomials.exe
+E:\TelerikAcademy\C#2\3.Methods\Methods\12.Subtracting-Polynomials\bin\Debug\12.Subtracting-Polynomials.pdb
+E:\TelerikAcademy\C#2\3.Methods\Methods\12.Subtracting-Polynomials\obj\Debug\12.Subtracting-Polynomials.exe
+E:\TelerikAcademy\C#2\3.Methods\Methods\12.Subtracting-Polynomials\obj\Debug\12.Subtracting-Polynomials.pdb
+E:\TelerikAcademy\C#2\3.Methods\Methods\12.Subtracting-Polynomials\obj\Debug\12.Subtracting-Polynomials.csprojResolveAssemblyReference.cache

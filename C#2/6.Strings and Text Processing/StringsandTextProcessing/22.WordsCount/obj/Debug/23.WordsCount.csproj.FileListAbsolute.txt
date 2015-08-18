@@ -1,0 +1,1 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\23.WordsCount\bin\Debug\23.WordsCount.exe.config

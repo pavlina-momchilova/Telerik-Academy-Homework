@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\08.BinaryShort\bin\Debug\08.BinaryShort.exe.config
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\08.BinaryShort\bin\Debug\08.BinaryShort.exe
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\08.BinaryShort\bin\Debug\08.BinaryShort.pdb
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\08.BinaryShort\obj\Debug\08.BinaryShort.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\08.BinaryShort\obj\Debug\08.BinaryShort.exe
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\08.BinaryShort\obj\Debug\08.BinaryShort.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe.config
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.pdb
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.exe
+E:\TelerikAcademy\C#2\4.Numeral Systems\Numeral-Systems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.pdb

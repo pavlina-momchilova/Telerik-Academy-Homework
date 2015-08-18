@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.pdb

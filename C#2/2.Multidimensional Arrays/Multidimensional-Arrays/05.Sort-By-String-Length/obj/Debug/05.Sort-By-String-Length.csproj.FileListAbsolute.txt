@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\05.Sort-By-String-Length\bin\Debug\05.Sort-By-String-Length.exe.config
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\05.Sort-By-String-Length\bin\Debug\05.Sort-By-String-Length.exe
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\05.Sort-By-String-Length\bin\Debug\05.Sort-By-String-Length.pdb
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\05.Sort-By-String-Length\obj\Debug\05.Sort-By-String-Length.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\05.Sort-By-String-Length\obj\Debug\05.Sort-By-String-Length.exe
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\05.Sort-By-String-Length\obj\Debug\05.Sort-By-String-Length.pdb

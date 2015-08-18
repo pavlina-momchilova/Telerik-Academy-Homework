@@ -1,0 +1,2 @@
+E:\TelerikAcademy\C#2\3.Methods\Methods\10.N-Factorial-Second-Solution\bin\Debug\10.N-Factorial-Second-Solution.exe.config
+E:\TelerikAcademy\C#2\3.Methods\Methods\10.N-Factorial-Second-Solution\obj\Debug\10.N-Factorial-Second-Solution.csprojResolveAssemblyReference.cache

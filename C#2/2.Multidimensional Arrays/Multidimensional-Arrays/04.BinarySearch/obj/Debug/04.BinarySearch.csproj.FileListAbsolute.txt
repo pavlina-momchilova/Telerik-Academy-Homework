@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\04.BinarySearch\bin\Debug\04.BinarySearch.exe.config
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\04.BinarySearch\bin\Debug\04.BinarySearch.exe
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\04.BinarySearch\obj\Debug\04.BinarySearch.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\04.BinarySearch\obj\Debug\04.BinarySearch.exe
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\04.BinarySearch\obj\Debug\04.BinarySearch.pdb

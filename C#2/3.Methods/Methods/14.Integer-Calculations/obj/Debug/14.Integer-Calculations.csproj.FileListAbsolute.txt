@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\3.Methods\Methods\14.Integer-Calculations\bin\Debug\14.Integer-Calculations.exe.config
+E:\TelerikAcademy\C#2\3.Methods\Methods\14.Integer-Calculations\bin\Debug\14.Integer-Calculations.exe
+E:\TelerikAcademy\C#2\3.Methods\Methods\14.Integer-Calculations\bin\Debug\14.Integer-Calculations.pdb
+E:\TelerikAcademy\C#2\3.Methods\Methods\14.Integer-Calculations\obj\Debug\14.Integer-Calculations.exe
+E:\TelerikAcademy\C#2\3.Methods\Methods\14.Integer-Calculations\obj\Debug\14.Integer-Calculations.pdb

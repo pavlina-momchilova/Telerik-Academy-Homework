@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.pdb

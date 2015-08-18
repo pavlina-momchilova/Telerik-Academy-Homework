@@ -1,0 +1,6 @@
+[pen, 3]
+[mouse, 3]
+[Same, 3]
+[apple, 1]
+[Phone, 0]
+

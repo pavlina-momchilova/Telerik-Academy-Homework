@@ -1,0 +1,1 @@
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\13. CountWords\bin\Debug\_13.CountWords.exe.config

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\17.Subset-K-with-sum-S\bin\Debug\17.Subset-K-with-sum-S.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\17.Subset-K-with-sum-S\bin\Debug\17.Subset-K-with-sum-S.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\17.Subset-K-with-sum-S\bin\Debug\17.Subset-K-with-sum-S.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\17.Subset-K-with-sum-S\obj\Debug\17.Subset-K-with-sum-S.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\17.Subset-K-with-sum-S\obj\Debug\17.Subset-K-with-sum-S.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\17.Subset-K-with-sum-S\obj\Debug\17.Subset-K-with-sum-S.pdb

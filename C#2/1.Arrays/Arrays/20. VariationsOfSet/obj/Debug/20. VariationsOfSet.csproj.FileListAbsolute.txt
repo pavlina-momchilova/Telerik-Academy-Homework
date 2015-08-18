@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\20. VariationsOfSet\bin\Debug\_20.VariationsOfSet.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\20. VariationsOfSet\obj\Debug\20. VariationsOfSet.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\20. VariationsOfSet\bin\Debug\_20.VariationsOfSet.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\20. VariationsOfSet\bin\Debug\_20.VariationsOfSet.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\20. VariationsOfSet\obj\Debug\_20.VariationsOfSet.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\20. VariationsOfSet\obj\Debug\_20.VariationsOfSet.pdb

@@ -1,0 +1,9 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\12.RemoveWords\bin\Debug\12.RemoveWords.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\12.RemoveWords\bin\Debug\12.RemoveWords.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\12.RemoveWords\obj\Debug\12.RemoveWords.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\12.RemoveWords\obj\Debug\12.RemoveWords.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\12.RemoveWords\obj\Debug\12.RemoveWords.pdb
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\12.RemoveWords\obj\Debug\12.RemoveWords.exe
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\12.RemoveWords\obj\Debug\12.RemoveWords.pdb

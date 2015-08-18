@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\12.Index-Of-Letters\bin\Debug\12.Index-Of-Letters.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\12.Index-Of-Letters\bin\Debug\12.Index-Of-Letters.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\12.Index-Of-Letters\bin\Debug\12.Index-Of-Letters.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\12.Index-Of-Letters\obj\Debug\12.Index-Of-Letters.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\12.Index-Of-Letters\obj\Debug\12.Index-Of-Letters.pdb

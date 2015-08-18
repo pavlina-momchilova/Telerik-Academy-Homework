@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\2.EnterNumbers\bin\Debug\2.EnterNumbers.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\2.EnterNumbers\bin\Debug\2.EnterNumbers.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\2.EnterNumbers\bin\Debug\2.EnterNumbers.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\2.EnterNumbers\obj\Debug\2.EnterNumbers.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\2.EnterNumbers\obj\Debug\2.EnterNumbers.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\01.StringsInCSharp\bin\Debug\01.StringsInCSharp.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\01.StringsInCSharp\bin\Debug\01.StringsInCSharp.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\01.StringsInCSharp\bin\Debug\01.StringsInCSharp.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\01.StringsInCSharp\obj\Debug\01.StringsInCSharp.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\01.StringsInCSharp\obj\Debug\01.StringsInCSharp.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\01.StringsInCSharp\obj\Debug\01.StringsInCSharp.pdb

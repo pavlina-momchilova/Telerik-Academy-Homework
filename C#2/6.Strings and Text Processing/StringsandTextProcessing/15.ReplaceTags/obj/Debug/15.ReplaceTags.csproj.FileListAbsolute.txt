@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

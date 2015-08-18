@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\24.OrderWords\bin\Debug\24.OrderWords.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\24.OrderWords\obj\Debug\24.OrderWords.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\24.OrderWords\obj\Debug\24.OrderWords.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\24.OrderWords\obj\Debug\24.OrderWords.pdb

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\3.Methods\Methods\02.Get-Largest-Number\bin\Debug\02.Get-Largest-Number.exe.config
+E:\TelerikAcademy\C#2\3.Methods\Methods\02.Get-Largest-Number\bin\Debug\02.Get-Largest-Number.exe
+E:\TelerikAcademy\C#2\3.Methods\Methods\02.Get-Largest-Number\bin\Debug\02.Get-Largest-Number.pdb
+E:\TelerikAcademy\C#2\3.Methods\Methods\02.Get-Largest-Number\obj\Debug\02.Get-Largest-Number.exe
+E:\TelerikAcademy\C#2\3.Methods\Methods\02.Get-Largest-Number\obj\Debug\02.Get-Largest-Number.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe.config
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.exe
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\10. ExtractTextFromXML\bin\Debug\_10.ExtractTextFromXML.pdb
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\10. ExtractTextFromXML\obj\Debug\10. ExtractTextFromXML.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.exe
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\10. ExtractTextFromXML\obj\Debug\_10.ExtractTextFromXML.pdb

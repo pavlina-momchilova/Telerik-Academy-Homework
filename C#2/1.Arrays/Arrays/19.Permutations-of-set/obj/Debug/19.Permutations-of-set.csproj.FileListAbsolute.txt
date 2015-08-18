@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\19.Permutations-of-set\bin\Debug\19.Permutations-of-set.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\19.Permutations-of-set\bin\Debug\19.Permutations-of-set.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\19.Permutations-of-set\bin\Debug\19.Permutations-of-set.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\19.Permutations-of-set\obj\Debug\19.Permutations-of-set.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\19.Permutations-of-set\obj\Debug\19.Permutations-of-set.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\19.Permutations-of-set\obj\Debug\19.Permutations-of-set.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\15\bin\Debug\15.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\15\bin\Debug\15.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\15\bin\Debug\15.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\15\obj\Debug\15.Prime-numbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\15\obj\Debug\15.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\15\obj\Debug\15.pdb

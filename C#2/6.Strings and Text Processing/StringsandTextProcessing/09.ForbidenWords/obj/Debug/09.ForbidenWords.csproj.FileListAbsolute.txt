@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\09.ForbidenWords\bin\Debug\09.ForbidenWords.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\09.ForbidenWords\bin\Debug\09.ForbidenWords.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\09.ForbidenWords\bin\Debug\09.ForbidenWords.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\09.ForbidenWords\obj\Debug\09.ForbidenWords.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\09.ForbidenWords\obj\Debug\09.ForbidenWords.pdb

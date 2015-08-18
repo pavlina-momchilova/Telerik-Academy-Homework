@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.pdb

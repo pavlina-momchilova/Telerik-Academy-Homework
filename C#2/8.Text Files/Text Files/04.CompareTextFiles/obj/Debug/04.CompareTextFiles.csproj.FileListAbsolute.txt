@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.pdb

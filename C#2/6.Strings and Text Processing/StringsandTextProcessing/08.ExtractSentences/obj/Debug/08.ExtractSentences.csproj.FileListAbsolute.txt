@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\08.ExtractSentences\obj\Debug\08.ExtractSentences.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\08.ExtractSentences\obj\Debug\08.ExtractSentences.pdb

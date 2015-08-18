@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\02.Compare-arrays\bin\Debug\02.Compare-arrays.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\02.Compare-arrays\bin\Debug\02.Compare-arrays.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\02.Compare-arrays\bin\Debug\02.Compare-arrays.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\02.Compare-arrays\obj\Debug\02.Compare-arrays.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\02.Compare-arrays\obj\Debug\02.Compare-arrays.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\02.Compare-arrays\obj\Debug\02.Compare-arrays.pdb

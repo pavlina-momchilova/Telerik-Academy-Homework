@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\13.Merge-Sort\bin\Debug\13.Merge-Sort.exe.config
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\13.Merge-Sort\bin\Debug\13.Merge-Sort.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\13.Merge-Sort\bin\Debug\13.Merge-Sort.pdb
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\13.Merge-Sort\obj\Debug\13.Merge-Sort.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\13.Merge-Sort\obj\Debug\13.Merge-Sort.exe
+E:\TelerikAcademy\C#2\1.Arrays\Arrays\13.Merge-Sort\obj\Debug\13.Merge-Sort.pdb

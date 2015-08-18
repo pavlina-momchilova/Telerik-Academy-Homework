@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\7.ReplaceSubString\bin\Debug\7.ReplaceSubString.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\7.ReplaceSubString\obj\Debug\7.ReplaceSubString.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\7.ReplaceSubString\bin\Debug\7.ReplaceSubString.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\7.ReplaceSubString\bin\Debug\7.ReplaceSubString.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\7.ReplaceSubString\obj\Debug\7.ReplaceSubString.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\7.ReplaceSubString\obj\Debug\7.ReplaceSubString.pdb

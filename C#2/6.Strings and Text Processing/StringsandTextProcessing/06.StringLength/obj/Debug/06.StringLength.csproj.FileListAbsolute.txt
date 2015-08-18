@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\06.StringLength\bin\Debug\06.StringLength.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\06.StringLength\bin\Debug\06.StringLength.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\06.StringLength\bin\Debug\06.StringLength.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\06.StringLength\obj\Debug\06.StringLength.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\06.StringLength\obj\Debug\06.StringLength.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\03.Sequence-N-Matrix\bin\Debug\03.Sequence-N-Matrix.exe.config
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\03.Sequence-N-Matrix\bin\Debug\03.Sequence-N-Matrix.exe
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\03.Sequence-N-Matrix\bin\Debug\03.Sequence-N-Matrix.pdb
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\03.Sequence-N-Matrix\obj\Debug\03.Sequence-N-Matrix.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\03.Sequence-N-Matrix\obj\Debug\03.Sequence-N-Matrix.exe
+E:\TelerikAcademy\C#2\2.Multidimensional Arrays\Multidimensional-Arrays\03.Sequence-N-Matrix\obj\Debug\03.Sequence-N-Matrix.pdb

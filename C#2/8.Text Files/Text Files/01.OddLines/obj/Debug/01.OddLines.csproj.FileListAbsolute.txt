@@ -1,0 +1,9 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\01.OddLines\bin\Debug\01.OddLines.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\01.OddLines\bin\Debug\01.OddLines.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\01.OddLines\bin\Debug\01.OddLines.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\01.OddLines\obj\Debug\01.OddLines.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\01.OddLines\obj\Debug\01.OddLines.pdb
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\01.OddLines\bin\Debug\01.OddLines.exe.config
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\01.OddLines\obj\Debug\01.OddLines.exe
+E:\TelerikAcademy\C#2\8.Text Files\Text Files\01.OddLines\obj\Debug\01.OddLines.pdb

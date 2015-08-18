@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\1.SquareRoot\bin\Debug\1.SquareRoot.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\1.SquareRoot\bin\Debug\1.SquareRoot.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\1.SquareRoot\bin\Debug\1.SquareRoot.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\1.SquareRoot\obj\Debug\1.SquareRoot.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\1.SquareRoot\obj\Debug\1.SquareRoot.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Exception Handling\1.SquareRoot\obj\Debug\1.SquareRoot.pdb

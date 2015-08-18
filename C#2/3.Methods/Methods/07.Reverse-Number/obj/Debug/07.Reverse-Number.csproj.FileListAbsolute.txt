@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\3.Methods\Methods\07.Reverse-Number\bin\Debug\07.Reverse-Number.exe.config
+E:\TelerikAcademy\C#2\3.Methods\Methods\07.Reverse-Number\bin\Debug\07.Reverse-Number.exe
+E:\TelerikAcademy\C#2\3.Methods\Methods\07.Reverse-Number\bin\Debug\07.Reverse-Number.pdb
+E:\TelerikAcademy\C#2\3.Methods\Methods\07.Reverse-Number\obj\Debug\07.Reverse-Number.exe
+E:\TelerikAcademy\C#2\3.Methods\Methods\07.Reverse-Number\obj\Debug\07.Reverse-Number.pdb

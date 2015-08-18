@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe.config
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.pdb
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.exe
+E:\TelerikAcademy\C#2\7.Exception Handling\Text Files\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.pdb

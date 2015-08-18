@@ -1,0 +1,1 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config

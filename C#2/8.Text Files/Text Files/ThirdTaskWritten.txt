@@ -1,0 +1,7 @@
+01: Problem 1. Odd lines
+02: Write a program that reads a text file and prints on the console its odd lines.
+03: Problem 2. Concatenate text files
+04: Write a program that concatenates two text files into another text file.
+05: Problem 3. Line numbers
+06: Write a program that reads a text file and inserts line numbers in front of each of its lines.
+07: The result should be written to another text file.

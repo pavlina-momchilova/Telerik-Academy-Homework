@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\18.ExtractEMails\bin\Debug\18.ExtractEMails.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\18.ExtractEMails\bin\Debug\18.ExtractEMails.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\18.ExtractEMails\bin\Debug\18.ExtractEMails.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\18.ExtractEMails\obj\Debug\18.ExtractEMails.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\18.ExtractEMails\obj\Debug\18.ExtractEMails.pdb

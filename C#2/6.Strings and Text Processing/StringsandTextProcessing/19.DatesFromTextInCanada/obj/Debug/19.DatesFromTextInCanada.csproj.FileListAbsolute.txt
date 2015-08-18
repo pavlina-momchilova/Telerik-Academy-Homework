@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.pdb

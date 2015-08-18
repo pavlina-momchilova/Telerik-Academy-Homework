@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\14.WordDictionary\bin\Debug\14.WordDictionary.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\14.WordDictionary\obj\Debug\14.WordDictionary.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\14.WordDictionary\obj\Debug\14.WordDictionary.pdb

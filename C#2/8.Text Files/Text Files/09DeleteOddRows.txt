@@ -1,0 +1,19 @@
+Problem 9. Delete odd lines
+Write a program that deletes from given text file all odd lines.
+The result should be in the same file.
+Problem 10. Extract text from XML
+
+----------------------------------------------------------
+Results starts here: 
+----------------------------------------------------------
+Problem 9. Delete odd lines
+The result should be in the same file.
+
+----------------------------------------------------------
+Results starts here: 
+----------------------------------------------------------
+Problem 9. Delete odd lines
+The result should be in the same file.
+
+Results starts here: 
+Problem 9. Delete odd lines

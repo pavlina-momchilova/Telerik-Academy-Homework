@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.pdb

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\20.Palindromes\bin\Debug\20.Palindromes.pdb
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\20.Palindromes\obj\Debug\20.Palindromes.exe
+E:\TelerikAcademy\C#2\6.Strings and Text Processing\StringsandTextProcessing\20.Palindromes\obj\Debug\20.Palindromes.pdb
