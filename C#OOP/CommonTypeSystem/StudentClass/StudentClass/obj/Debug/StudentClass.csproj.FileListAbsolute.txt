@@ -1,0 +1,7 @@
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 2\CommonTypeSystem\StudentClass\StudentClass\bin\Debug\StudentClass.exe.config
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\StudentClass\StudentClass\bin\Debug\StudentClass.exe.config
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\StudentClass\StudentClass\bin\Debug\StudentClass.exe
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\StudentClass\StudentClass\bin\Debug\StudentClass.pdb
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\StudentClass\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\StudentClass\StudentClass\obj\Debug\StudentClass.exe
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\StudentClass\StudentClass\obj\Debug\StudentClass.pdb

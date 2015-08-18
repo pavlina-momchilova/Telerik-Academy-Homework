@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#OOP\Defining Classes - Part 2\DefiningClasses2\DefiningClasses2\bin\Debug\DefiningClasses2.exe.config
+E:\TelerikAcademy\C#OOP\Defining Classes - Part 2\DefiningClasses2\DefiningClasses2\bin\Debug\DefiningClasses2.exe
+E:\TelerikAcademy\C#OOP\Defining Classes - Part 2\DefiningClasses2\DefiningClasses2\bin\Debug\DefiningClasses2.pdb
+E:\TelerikAcademy\C#OOP\Defining Classes - Part 2\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#OOP\Defining Classes - Part 2\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.exe
+E:\TelerikAcademy\C#OOP\Defining Classes - Part 2\DefiningClasses2\DefiningClasses2\obj\Debug\DefiningClasses2.pdb

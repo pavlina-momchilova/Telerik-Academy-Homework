@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\1.SchoolClasses\bin\Debug\1.SchoolClasses.exe.config
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\1.SchoolClasses\obj\Debug\1.SchoolClasses.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\1.SchoolClasses\bin\Debug\1.SchoolClasses.exe
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\1.SchoolClasses\bin\Debug\1.SchoolClasses.pdb
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\1.SchoolClasses\obj\Debug\1.SchoolClasses.exe
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\1.SchoolClasses\obj\Debug\1.SchoolClasses.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.exe.config
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.exe
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.pdb
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.exe
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.pdb

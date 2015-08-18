@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe.config
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.pdb
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.exe
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\03.Delegates\bin\Debug\03.Delegates.exe.config
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\03.Delegates\obj\Debug\03.Delegates.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\03.Delegates\bin\Debug\03.Delegates.exe
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\03.Delegates\bin\Debug\03.Delegates.pdb
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\03.Delegates\obj\Debug\03.Delegates.exe
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\03.Delegates\obj\Debug\03.Delegates.pdb

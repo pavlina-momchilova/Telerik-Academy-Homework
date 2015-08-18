@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\64BitArray\bin\Debug\64BitArray.exe.config
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\64BitArray\obj\Debug\64BitArray.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\64BitArray\bin\Debug\64BitArray.exe
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\64BitArray\bin\Debug\64BitArray.pdb
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\64BitArray\obj\Debug\64BitArray.exe
+E:\TelerikAcademy\C#OOP\CommonTypeSystem\64BitArray\obj\Debug\64BitArray.pdb

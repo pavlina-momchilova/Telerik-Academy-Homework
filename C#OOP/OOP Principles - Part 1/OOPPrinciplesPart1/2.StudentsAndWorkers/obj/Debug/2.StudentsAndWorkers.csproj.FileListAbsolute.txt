@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.exe.config
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.exe
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.pdb
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.exe
+E:\TelerikAcademy\C#OOP\OOP Principles - Part 1\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.pdb

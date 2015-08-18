@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\02.DivisibleBy7And3\bin\Debug\02.DivisibleBy7And3.exe.config
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\02.DivisibleBy7And3\bin\Debug\02.DivisibleBy7And3.exe
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\02.DivisibleBy7And3\bin\Debug\02.DivisibleBy7And3.pdb
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\02.DivisibleBy7And3\obj\Debug\02.DivisibleBy7And3.exe
+E:\TelerikAcademy\C#OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\02.DivisibleBy7And3\obj\Debug\02.DivisibleBy7And3.pdb
