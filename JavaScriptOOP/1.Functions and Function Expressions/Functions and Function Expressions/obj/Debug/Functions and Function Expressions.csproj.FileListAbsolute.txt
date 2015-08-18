@@ -1,0 +1,6 @@
+E:\TelerikAcademy\JavaScript OOP\Functions and Function Expressions\Functions and Function Expressions\bin\Functions and Function Expressions.dll.config
+E:\TelerikAcademy\JavaScript OOP\Functions and Function Expressions\Functions and Function Expressions\bin\Functions and Function Expressions.dll
+E:\TelerikAcademy\JavaScript OOP\Functions and Function Expressions\Functions and Function Expressions\bin\Functions and Function Expressions.pdb
+E:\TelerikAcademy\JavaScript OOP\Functions and Function Expressions\Functions and Function Expressions\obj\Debug\Functions and Function Expressions.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\JavaScript OOP\Functions and Function Expressions\Functions and Function Expressions\obj\Debug\Functions and Function Expressions.dll
+E:\TelerikAcademy\JavaScript OOP\Functions and Function Expressions\Functions and Function Expressions\obj\Debug\Functions and Function Expressions.pdb

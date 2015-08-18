@@ -1,0 +1,113 @@
+/* Task Description */
+/* 
+	*	Create a module for working with books
+		*	The module must provide the following functionalities:
+			*	Add a new book to category
+				*	Each book has unique title, author and ISBN
+				*	It must return the newly created book with assigned ID
+				*	If the category is missing, it must be automatically created
+			*	List all books
+				*	Books are sorted by ID
+				*	This can be done by author, by category or all
+			*	List all categories
+				*	Categories are sorted by ID
+		*	Each book/catagory has a unique identifier (ID) that is a number greater than or equal to 1
+			*	When adding a book/category, the ID is generated automatically
+		*	Add validation everywhere, where possible
+			*	Book title and category name must be between 2 and 100 characters, including letters, digits and special characters ('!', ',', '.', etc)
+			*	Author is any non-empty string
+			*	Unique params are Book title and Book ISBN
+			*	Book ISBN is an unique code that contains either 10 or 13 digits
+			*	If something is not valid - throw Error
+*/
+function solve() {
+	var library = (function () {
+		var books = [];
+		var categories = [];
+		function listBooks(category) {
+			if(arguments.length===0){
+				return books;
+			}
+			var i,
+			len=books.length,
+			allbooks=[];
+			for(i = 0; i < len; i += 1){
+				if(category.category===books[i].category){
+					allbooks.push(books[i]);
+				}
+			}
+			return allbooks;
+		}
+
+		function addBook(book) {
+			var i,
+			j,
+			len = books.length,
+			lenCategories = categories.length,
+			flag=false;
+			
+			if(book.isbn && (book.isbn.length!==10 && book.isbn.length!==13)){
+				throw Error;
+			}
+			
+			if(!book.author){
+				throw Error;
+			}
+			
+			for(i = 0; i < len; i += 1){
+				if(books[i].title===book.title){
+					throw Error;
+				}
+				if(books[i].isbn===book.isbn){
+					throw Error;
+				}
+			}
+			
+			if(book.title && (book.title<2 || book.title>100)){
+				throw Error;
+			}
+			
+			if(book.category && (book.category < 2 || book.category > 100)){
+				throw Error;
+			}
+			
+			for (j = 0; j < lenCategories; j+=1) {
+				if(categories[j].category===book.category){
+					flag=true;
+				}
+			}
+			if(!flag){
+				var newCategory={
+					category:book.category,
+					ID:lenCategories+2
+				};
+				categories.push(newCategory);
+			}
+						
+			book.ID = books.length + 2;
+			books.push(book);
+			return book;
+		}
+
+		function listCategories() {
+			 return categories.sort(function(x, y) {
+                return x.id - y.id;
+            }).map(function(item) {
+                item = item.category;
+                return item;
+            });
+		}
+
+		return {
+			books: {
+				list: listBooks,
+				add: addBook
+			},
+			categories: {
+				list: listCategories
+			}
+		};
+	} ());
+	return library;
+}
+module.exports = solve;
