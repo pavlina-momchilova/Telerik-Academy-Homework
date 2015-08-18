@@ -1,0 +1,6 @@
+E:\TelerikAcademy\CSS\04.Препроцесори за CSS\SASS\SASS\bin\SASS.dll.config
+E:\TelerikAcademy\CSS\04.Препроцесори за CSS\SASS\SASS\bin\SASS.dll
+E:\TelerikAcademy\CSS\04.Препроцесори за CSS\SASS\SASS\bin\SASS.pdb
+E:\TelerikAcademy\CSS\04.Препроцесори за CSS\SASS\SASS\obj\Debug\SASS.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\CSS\04.Препроцесори за CSS\SASS\SASS\obj\Debug\SASS.dll
+E:\TelerikAcademy\CSS\04.Препроцесори за CSS\SASS\SASS\obj\Debug\SASS.pdb

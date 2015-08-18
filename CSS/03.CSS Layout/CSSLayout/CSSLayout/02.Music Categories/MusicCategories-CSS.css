@@ -1,0 +1,73 @@
+﻿#general{
+        width:420px;
+        height:540px;
+        background-color:#eeeeee;
+        border-radius:5px;
+}
+#header{
+        display:inline-block;
+        margin-top:5px;
+        margin-left:15px;
+        font-size:27px;
+        font-family:DilleniaUPC;
+        letter-spacing:-1px;
+}
+.song{
+        width:395px;
+        height:118px;
+        margin-left:15px;
+        border:1px solid #a2a2a2;
+        background-color:#ffffff;
+        margin-bottom:40px;
+}
+.song:last-of-type{
+    height:125px;
+}
+img{
+        border:1px solid #a2a2a2;
+        margin:15px;
+        float:left;
+}
+p.text{
+        font-size:15px;
+        font-family:Calibri;
+        display:block;
+        margin-top:10px;
+        letter-spacing:-0.5px;
+       line-height:16px;
+}
+button{
+        float:right;
+        background: #8a0000; /* Old browsers */
+        background: -moz-linear-gradient(left,  #8a0000 24%, #c90204 26%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, right top, color-stop(24%,#8a0000), color-stop(26%,#c90204)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(left,  #8a0000 24%,#c90204 26%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(left,  #8a0000 24%,#c90204 26%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(left,  #8a0000 24%,#c90204 26%); /* IE10+ */
+        background: linear-gradient(to right,  #8a0000 24%,#c90204 26%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8a0000', endColorstr='#c90204',GradientType=1 ); /* IE6-9 */
+        border-bottom-color:#c90204;
+        border-right-color:#c90204;
+        border-left:#8a0000;
+        border-top:2px solid #e48487;
+        font-family:Calibri;
+
+}
+button:focus{
+    outline-style:none;
+}
+.right{
+        margin-right:15px;
+        width:65px;
+        height:25px;
+        color:white;
+}
+.left{
+        width:75px;
+        height:25px;
+        margin-right:3px;
+        color:white;
+}
+strong{
+    color:#212121;
+}

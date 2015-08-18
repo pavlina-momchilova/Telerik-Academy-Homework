@@ -1,0 +1,12 @@
+E:\TelerikAcademy\HTML\Forms and Frames\CSS Overview\CSS Overview\bin\CSS Overview.dll.config
+E:\TelerikAcademy\HTML\Forms and Frames\CSS Overview\CSS Overview\bin\CSS Overview.dll
+E:\TelerikAcademy\HTML\Forms and Frames\CSS Overview\CSS Overview\bin\CSS Overview.pdb
+E:\TelerikAcademy\HTML\Forms and Frames\CSS Overview\CSS Overview\obj\Debug\CSS Overview.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\HTML\Forms and Frames\CSS Overview\CSS Overview\obj\Debug\CSS Overview.dll
+E:\TelerikAcademy\HTML\Forms and Frames\CSS Overview\CSS Overview\obj\Debug\CSS Overview.pdb
+E:\TelerikAcademy\CSS\01.CSS Basics\CSS Overview\CSS Overview\bin\CSS Overview.dll.config
+E:\TelerikAcademy\CSS\01.CSS Basics\CSS Overview\CSS Overview\bin\CSS Overview.dll
+E:\TelerikAcademy\CSS\01.CSS Basics\CSS Overview\CSS Overview\bin\CSS Overview.pdb
+E:\TelerikAcademy\CSS\01.CSS Basics\CSS Overview\CSS Overview\obj\Debug\CSS Overview.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\CSS\01.CSS Basics\CSS Overview\CSS Overview\obj\Debug\CSS Overview.dll
+E:\TelerikAcademy\CSS\01.CSS Basics\CSS Overview\CSS Overview\obj\Debug\CSS Overview.pdb

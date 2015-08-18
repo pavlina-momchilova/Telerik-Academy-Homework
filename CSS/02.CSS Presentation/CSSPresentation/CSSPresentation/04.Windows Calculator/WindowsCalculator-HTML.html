@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href="WindowsCalculator-CSS.css" rel="stylesheet" type="text/css"/>
+    <title></title>
+</head>
+<body>
+<div id="general">
+    <img src="calculator.png" alt="calculator icon" id="icon">
+    <span id="Calc">Calculator</span>
+    <input type="button" name="Exit" id="exit" value="x"/>
+    <input type="button" name="Maximize" id="maximize" value="&#9633;" />
+    <input type="button" name="Minimize" id="minimize" value="-" />
+    <div id="panel">
+        <div id="nav">
+            <a href="#" class="menu">View</a><a href="#" class="menu">Edit</a><a href="#" class="menu">Help</a>
+        </div>
+        <input type="text" name="result" value="8854455&nbsp;" />
+        <div id="binary"> 
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="nums">
+                63
+            </span>
+            <span class="allnums">
+                47
+            </span>
+            <span class="nums">
+                32
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                0000
+            </span>
+            <span class="binNum">
+                1000
+            </span>
+            <span class="binNum">
+                0111
+            </span>
+            <span class="binNum">
+                0001
+            </span>
+            <span class="binNum">
+                1011
+            </span>
+            <span class="binNum">
+                1011
+            </span>
+            <span class="binNum">
+                0111
+            </span>
+            <span class="nums">
+                31
+            </span>
+            <span class="allnums">
+                15
+            </span>
+            <span class="nums">
+                &nbsp;0
+            </span>
+        </div>
+        <div id="convert">
+            <input type="radio" name="convert" class="conv" /><span class="txt">Hex</span>
+            <br />
+            <input type="radio" name="convert" class="conv" checked="checked" /><span class="txt">Dec</span>
+            <br />
+            <input type="radio" name="convert" class="conv" /><span class="txt">Oct</span>
+            <br />
+            <input type="radio" name="convert" class="conv" /><span class="txt">Bin</span>
+        </div>
+        <div id="convert">
+            <input type="radio" name="convert1" class="conv" checked="checked" /><span class="txt">Qword</span>
+            <br />
+            <input type="radio" name="convert1" class="conv" /><span class="txt">Dword</span>
+            <br />
+            <input type="radio" name="convert1" class="conv" /><span class="txt">Word</span>
+            <br />
+            <input type="radio" name="convert1" class="conv" /><span class="txt">Byte</span>
+        </div>
+        <div id="buttons">
+            <input type="button" name="but1" class="bordered">
+            <input type="button" name="but1" class="butt" value="Mod">
+            <input type="button" name="but1" class="bordered" value="A">
+            <input type="button" name="but1" class="bordered" value="MC">
+            <input type="button" name="but1" class="bordered" value="MR">
+            <input type="button" name="but1" class="bordered" value="MS">
+            <input type="button" name="but1" class="bordered" value="M+">
+            <input type="button" name="but1" class="bordered" value="M-">
+
+            <input type="button" name="but1" class="butt" value="(">
+            <input type="button" name="but1" class="butt" value=")">
+            <input type="button" name="but1" class="bordered" value="B">
+            <input type="button" name="but1" class="butt" value="&#8592;">
+            <input type="button" name="but1" class="butt" value="CE">
+            <input type="button" name="but1" class="butt" value="C">
+            <input type="button" name="but1" class="butt" value="&#177;">
+            <input type="button" name="but1" class="bordered" value="&#8730;">
+
+            <input type="button" name="but1" class="butt" value="RoL">
+            <input type="button" name="but1" class="butt" value="RoR">
+            <input type="button" name="but1" class="bordered" value="C">
+            <input type="button" name="but1" class="butt" value="7">
+            <input type="button" name="but1" class="butt" value="8">
+            <input type="button" name="but1" class="butt" value="9">
+            <input type="button" name="but1" class="butt" value="/">
+            <input type="button" name="but1" class="bordered" value="%">
+
+            <input type="button" name="but1" class="butt" value="Or">
+            <input type="button" name="but1" class="butt" value="Xor">
+            <input type="button" name="but1" class="bordered" value="D">
+            <input type="button" name="but1" class="butt" value="4">
+            <input type="button" name="but1" class="butt" value="5">
+            <input type="button" name="but1" class="butt" value="6">
+            <input type="button" name="but1" class="butt" value="*">
+            <input type="button" name="but1" class="bordered" value="1/x">
+
+            <input type="button" name="but1" class="butt" value="Lsh">
+            <input type="button" name="but1" class="butt" value="Rsh">
+            <input type="button" name="but1" class="bordered" value="E">
+            <input type="button" name="but1" class="butt" value="1">
+            <input type="button" name="but1" class="butt" value="2">
+            <input type="button" name="but1" class="butt" value="3">
+            <input type="button" name="but1" class="butt" value="-">
+            <input type="button" name="but1" id="equal" value="=">
+
+            <div id="buttonsE">
+                <input type="button" name="but1" class="butt" value="Not">
+                <input type="button" name="but1" class="butt" value="And">
+                <input type="button" name="but1" class="bordered" value="F">
+                <input type="button" name="but1" id="zero" value="0">
+                <input type="button" name="but1" class="bordered" value=".">
+                <input type="button" name="but1" class="butt" value="+">
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

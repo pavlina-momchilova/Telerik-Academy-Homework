@@ -1,0 +1,6 @@
+E:\TelerikAcademy\CSS\02.CSS Presentation\CSSPresentation\CSSPresentation\bin\CSSPresentation.dll.config
+E:\TelerikAcademy\CSS\02.CSS Presentation\CSSPresentation\CSSPresentation\bin\CSSPresentation.dll
+E:\TelerikAcademy\CSS\02.CSS Presentation\CSSPresentation\CSSPresentation\bin\CSSPresentation.pdb
+E:\TelerikAcademy\CSS\02.CSS Presentation\CSSPresentation\CSSPresentation\obj\Debug\CSSPresentation.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\CSS\02.CSS Presentation\CSSPresentation\CSSPresentation\obj\Debug\CSSPresentation.dll
+E:\TelerikAcademy\CSS\02.CSS Presentation\CSSPresentation\CSSPresentation\obj\Debug\CSSPresentation.pdb

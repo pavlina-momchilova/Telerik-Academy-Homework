@@ -1,0 +1,19 @@
+﻿ul{
+    list-style-type:none;
+}
+ul li a{
+    text-decoration:none;
+    color:black;
+}
+ul.subItem{
+    display:none;
+}
+ul>li:hover>a{
+    text-decoration:underline;
+}
+ul>li:hover>ul{
+    display:block;
+}
+ul.subItem li a{
+    color:#908d8a;
+}
