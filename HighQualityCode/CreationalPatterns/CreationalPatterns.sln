@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyInitialization", "LazyInitialization\LazyInitialization.csproj", "{7C9ADCDD-7682-4C35-BE68-486A9DB3751A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectPool", "ObjectPool\ObjectPool.csproj", "{D432D85D-2FE0-4DE3-8203-A20BECAD24F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{48D9519E-D50D-4BE9-BE9A-0B512B366843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9ADCDD-7682-4C35-BE68-486A9DB3751A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9ADCDD-7682-4C35-BE68-486A9DB3751A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9ADCDD-7682-4C35-BE68-486A9DB3751A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9ADCDD-7682-4C35-BE68-486A9DB3751A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D432D85D-2FE0-4DE3-8203-A20BECAD24F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D432D85D-2FE0-4DE3-8203-A20BECAD24F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D432D85D-2FE0-4DE3-8203-A20BECAD24F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D432D85D-2FE0-4DE3-8203-A20BECAD24F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D9519E-D50D-4BE9-BE9A-0B512B366843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D9519E-D50D-4BE9-BE9A-0B512B366843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D9519E-D50D-4BE9-BE9A-0B512B366843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D9519E-D50D-4BE9-BE9A-0B512B366843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

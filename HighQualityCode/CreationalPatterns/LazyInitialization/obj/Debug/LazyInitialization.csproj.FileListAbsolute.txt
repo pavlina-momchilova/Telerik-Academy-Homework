@@ -1,0 +1,6 @@
+C:\Users\Pavlina\Desktop\CreationalPatterns\LazyInitialization\bin\Debug\LazyInitialization.exe.config
+C:\Users\Pavlina\Desktop\CreationalPatterns\LazyInitialization\obj\Debug\LazyInitialization.csprojResolveAssemblyReference.cache
+C:\Users\Pavlina\Desktop\CreationalPatterns\LazyInitialization\bin\Debug\LazyInitialization.exe
+C:\Users\Pavlina\Desktop\CreationalPatterns\LazyInitialization\bin\Debug\LazyInitialization.pdb
+C:\Users\Pavlina\Desktop\CreationalPatterns\LazyInitialization\obj\Debug\LazyInitialization.exe
+C:\Users\Pavlina\Desktop\CreationalPatterns\LazyInitialization\obj\Debug\LazyInitialization.pdb
