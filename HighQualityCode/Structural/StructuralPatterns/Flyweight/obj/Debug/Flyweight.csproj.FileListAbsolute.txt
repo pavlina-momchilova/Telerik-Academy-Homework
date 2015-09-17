@@ -1,0 +1,5 @@
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Flyweight\obj\Debug\Flyweight.pdb

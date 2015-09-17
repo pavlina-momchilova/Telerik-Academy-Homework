@@ -1,0 +1,6 @@
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Composite\bin\Debug\Composite.exe
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Composite\bin\Debug\Composite.pdb
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Composite\obj\Debug\Composite.exe
+C:\Users\Pavlina\Desktop\15.Development Tools Homework\StructuralPatterns\Composite\obj\Debug\Composite.pdb
