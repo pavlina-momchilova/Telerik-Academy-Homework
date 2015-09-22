@@ -1,0 +1,3 @@
+C:\Users\Pavlina\Desktop\Homework\BehavioralPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Pavlina\Desktop\Homework\BehavioralPatterns\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Pavlina\Desktop\Homework\BehavioralPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb
